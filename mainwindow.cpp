@@ -153,7 +153,7 @@ void MainWindow::on_sum_clicked()
 
         if (flag == 0)
         {
-            i = 10;
+            i = 11;
         }
     }
     // ui->out->setText("不知道，妈个鬼我哪知道！！！");
