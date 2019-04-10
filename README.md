@@ -4,7 +4,7 @@
 
 [下载链接](https://github.com/ChenHaoHu/KinshipCalculator/releases) 
 
-![gif](E:\qt\untitled\show.gif)
+![gif](show.gif)
 
 > 处理亲戚关系思路
 
