@@ -1,10 +1,10 @@
-### KinshipCalculator
+# KinshipCalculator
 
 > 简单使用 QT 实现一个亲属关系计算器，这里只描述了部分亲属关系 
 
-[下载链接](亲戚关系计算软件.exe) 
+[下载链接](https://github.com/ChenHaoHu/KinshipCalculator/releases) 
 
-
+![gif](E:\qt\untitled\show.gif)
 
 > 处理亲戚关系思路
 
