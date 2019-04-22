@@ -110,7 +110,7 @@ void MainWindow::on_sum_clicked()
     int size1 = 12;
     int size2 = 12;
 
-    QStringList split = out.split("的");
+    QStringList splits = out.split("的");
 
     QString str = "aa";
 
@@ -118,9 +118,9 @@ void MainWindow::on_sum_clicked()
     int j = 0;
     int flag = 0;
 
-    for (int x = 1; x < split.size(); ++x)
+    for (int x = 1; x < splits.size(); ++x)
     {
-        str = split.at(x);
+        str = splits.at(x);
 
         for (int k = 0; k < size1; k++)
         {
